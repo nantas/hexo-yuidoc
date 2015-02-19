@@ -20,7 +20,11 @@
     "api",
     "generator"
   ],
-  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "author": {
+    "name": "Tommy Chen",
+    "email": "tommy351@gmail.com",
+    "url": "http://zespia.tw"
+  },
   "license": {
     "type": "MIT",
     "url": "https://raw.github.com/tommy351/hexo/master/LICENSE"
@@ -28,5 +32,24 @@
   "dependencies": {
     "async": "^0.8.0",
     "lodash": "^2.4.1"
-  }
+  },
+  "_id": "hexo-yuidoc@0.2.2",
+  "dist": {
+    "shasum": "ea7350cfc769eb917dda1b24429ae3da772559ea",
+    "tarball": "http://registry.npmjs.org/hexo-yuidoc/-/hexo-yuidoc-0.2.2.tgz"
+  },
+  "_from": "hexo-yuidoc@",
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "tommy351",
+    "email": "tommy351@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "tommy351",
+      "email": "tommy351@gmail.com"
+    }
+  ],
+  "_shasum": "ea7350cfc769eb917dda1b24429ae3da772559ea",
+  "_resolved": "https://registry.npmjs.org/hexo-yuidoc/-/hexo-yuidoc-0.2.2.tgz"
 }
